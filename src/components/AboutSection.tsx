@@ -90,8 +90,8 @@ const AboutSection = () => {
           >
             {[
               { label: "Mindset", value: "I build because I enjoy solving problems" },
-              { label: "Focus", value: "Ship & Iterate" },
-              { label: "Approach", value: "Execution Driven" },
+              { label: "Focus", value: "Start simple, improve daily" },
+              { label: "Approach", value: "Make it work. Make it better" },
             ].map((item, index) => (
               <motion.div
                 key={item.label}
