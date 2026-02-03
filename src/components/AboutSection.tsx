@@ -89,7 +89,7 @@ const AboutSection = () => {
             className="grid grid-cols-1 sm:grid-cols-3 gap-6 mt-16"
           >
             {[
-              { label: "Mindset", value: "Builder First" },
+              { label: "Mindset", value: "I build because I enjoy solving problems" },
               { label: "Focus", value: "Ship & Iterate" },
               { label: "Approach", value: "Execution Driven" },
             ].map((item, index) => (
