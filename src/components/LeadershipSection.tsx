@@ -67,9 +67,9 @@ const LeadershipSection = () => {
   const experiences = [
     {
       role: "Co-Founder",
-      company: "TribexEsports.com",
+      company: "TribexEsports",
       description: "Built and scaled a tech-driven esports platform. Led web systems, digital infrastructure, and community growth.",
-      period: "2023 – Present",
+      period: "2025 – Present",
     },
     {
       role: "Co-Founder",
