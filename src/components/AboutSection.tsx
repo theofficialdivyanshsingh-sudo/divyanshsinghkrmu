@@ -71,7 +71,7 @@ const AboutSection = () => {
               Currently pursuing B.Tech in Computer Science at K.R. Mangalam University
               (2024–2028), I've already co-founded two ventures:{" "}
               <span className="text-foreground">Tribex Esports</span> and{" "}
-              <span className="text-foreground">Tech Tribex</span> a 2000+ member student
+              <span className="text-foreground">Tech Tribex</span>{" "}a 2000+ member student
               tech community.
             </p>
 
