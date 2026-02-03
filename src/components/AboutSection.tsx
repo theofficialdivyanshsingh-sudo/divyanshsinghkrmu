@@ -64,7 +64,7 @@ const AboutSection = () => {
           <motion.div variants={itemVariants} className="space-y-8">
             <p className="text-2xl sm:text-3xl md:text-4xl font-display font-medium leading-relaxed tracking-tight">
               I'm a{" "}
-              <span className="text-foreground animated-underline">technology builder </span> focused on crafting scalable systems, immersive experiences, and communities that last
+              <span className="text-foreground animated-underline">technology builder</span>focused on crafting scalable systems, immersive experiences, and communities that last
             </p>
 
             <p className="text-lg sm:text-xl text-muted-foreground leading-relaxed">
